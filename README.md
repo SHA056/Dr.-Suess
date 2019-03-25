@@ -4,3 +4,5 @@ This repository holds writings and works of Dr. Suess, a notable children's writ
 I do not own anything.
 
 This repository is made for purposes of exploring github.
+
+1 - commit 1
